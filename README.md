@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0907-sum-of-subarray-minimums) |
+| [1004-max-consecutive-ones-iii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,4 +32,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0907-sum-of-subarray-minimums) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
