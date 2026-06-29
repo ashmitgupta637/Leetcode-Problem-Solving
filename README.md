@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0907-sum-of-subarray-minimums](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0907-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
@@ -48,4 +49,16 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
