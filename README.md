@@ -71,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0102-binary-tree-level-order-traversal) |
+## Math
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
