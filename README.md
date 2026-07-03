@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0662-maximum-width-of-binary-tree) |
 ## Breadth-First Search
@@ -108,5 +111,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
