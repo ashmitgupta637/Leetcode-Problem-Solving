@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0662-maximum-width-of-binary-tree) |
 ## Breadth-First Search
@@ -117,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## String
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
