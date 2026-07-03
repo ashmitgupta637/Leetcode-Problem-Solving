@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0662-maximum-width-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0872-leaf-similar-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0662-maximum-width-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0872-leaf-similar-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0662-maximum-width-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0872-leaf-similar-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -148,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
