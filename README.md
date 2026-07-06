@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0404-sum-of-left-leaves) |
+| [0450-delete-node-in-a-bst](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0662-maximum-width-of-binary-tree) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0404-sum-of-left-leaves) |
+| [0450-delete-node-in-a-bst](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0662-maximum-width-of-binary-tree) |
@@ -207,5 +209,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
