@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0872-leaf-similar-trees](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0872-leaf-similar-trees) |
 | [0965-univalued-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0993-cousins-in-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0872-leaf-similar-trees](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0872-leaf-similar-trees) |
 | [0965-univalued-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0993-cousins-in-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0872-leaf-similar-trees](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0872-leaf-similar-trees) |
 | [0965-univalued-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0993-cousins-in-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0993-cousins-in-binary-tree) |
 ## Math
 |  |
 | ------- |
