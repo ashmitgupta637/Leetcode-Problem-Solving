@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0024-swap-nodes-in-pairs) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
@@ -259,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0402-remove-k-digits) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
