@@ -47,10 +47,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
+| [0402-remove-k-digits](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0907-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0907-sum-of-subarray-minimums) |
 ## Binary Search
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
+| [0402-remove-k-digits](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0402-remove-k-digits) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Backtracking
 |  |
@@ -251,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2553-separate-the-digits-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
