@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0450-delete-node-in-a-bst) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0450-delete-node-in-a-bst) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
