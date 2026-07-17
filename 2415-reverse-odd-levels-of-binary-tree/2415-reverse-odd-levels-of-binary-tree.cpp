@@ -11,39 +11,18 @@
  */
 class Solution {
 public:
+    void dfs(TreeNode* root1, TreeNode* root2 , int level) {
+        if(!root1 || !root2) return ; 
+        if(level%2 != 0 ) swap(root1->val , root2->val) ; 
+
+        dfs(root1->left , root2->right , level+1) ; 
+        dfs(root1->right , root2 ->left , level+1) ; 
+
+        
+
+    }
     TreeNode* reverseOddLevels(TreeNode* root) {
-        if (!root) return root;
-
-        queue<TreeNode*> q;
-        q.push(root);
-        int level = 0;
-
-        while (!q.empty()) {
-            int size = q.size();
-            vector<TreeNode*> currentLevel;
-
-            for (int i = 0; i < size; i++) {
-                TreeNode* node = q.front();
-                q.pop();
-                currentLevel.push_back(node);
-
-                if (node->left) q.push(node->left);
-                if (node->right) q.push(node->right);
-            }
-
-            
-            if (level % 2 != 0) {
-                int left = 0, right = currentLevel.size() - 1;
-                while (left < right) {
-                    swap(currentLevel[left]->val, currentLevel[right]->val);
-                    left++;
-                    right--;
-                }
-            }
-
-            level++;
-        }
-
-        return root;
+        dfs(root->left , root->right , 1) ; 
+        return root ; 
     }
 };
