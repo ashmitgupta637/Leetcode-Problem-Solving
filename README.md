@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0697-degree-of-an-array](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0697-degree-of-an-array) |
+| [0724-find-pivot-index](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0724-find-pivot-index) |
 | [0907-sum-of-subarray-minimums](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 ## Tree
