@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0930-binary-subarrays-with-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1640-check-array-formation-through-concatenation](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1640-check-array-formation-through-concatenation) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2553-separate-the-digits-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0009-palindrome-number](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0009-palindrome-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
 |  |
@@ -290,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0024-swap-nodes-in-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
