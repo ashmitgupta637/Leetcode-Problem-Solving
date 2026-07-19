@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0209-minimum-size-subarray-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0697-degree-of-an-array](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0724-find-pivot-index) |
 | [0907-sum-of-subarray-minimums](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0907-sum-of-subarray-minimums) |
@@ -68,18 +69,21 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
