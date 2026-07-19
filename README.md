@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
+| [0567-permutation-in-string](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0697-degree-of-an-array](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0697-degree-of-an-array) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
+| [0567-permutation-in-string](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0567-permutation-in-string) |
 ## Array
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0402-remove-k-digits](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0402-remove-k-digits) |
+| [0567-permutation-in-string](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0567-permutation-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Backtracking
