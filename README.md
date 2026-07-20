@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0187-repeated-dna-sequences](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0187-repeated-dna-sequences) |
+| [0219-contains-duplicate-ii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0697-degree-of-an-array](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0697-degree-of-an-array) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0275-h-index-ii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0275-h-index-ii) |
 | [0697-degree-of-an-array](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0724-find-pivot-index) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
