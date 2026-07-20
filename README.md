@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1640-check-array-formation-through-concatenation](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1640-check-array-formation-through-concatenation) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2641-cousins-in-binary-tree-ii) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Linked List
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0567-permutation-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Backtracking
 |  |
 | ------- |
