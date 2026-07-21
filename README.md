@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0135-candy](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0135-candy) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0275-h-index-ii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0275-h-index-ii) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Recursion
