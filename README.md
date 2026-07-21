@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -333,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1260-shift-2d-grid) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
