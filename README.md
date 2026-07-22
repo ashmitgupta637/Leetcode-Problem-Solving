@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0275-h-index-ii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0278-first-bad-version) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -347,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0992-subarrays-with-k-different-integers) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
