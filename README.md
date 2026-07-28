@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0275-h-index-ii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0275-h-index-ii) |
 | [0321-create-maximum-number](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0321-create-maximum-number) |
+| [0410-split-array-largest-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0410-split-array-largest-sum) |
 | [0697-degree-of-an-array](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0724-find-pivot-index) |
 | [0907-sum-of-subarray-minimums](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0907-sum-of-subarray-minimums) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0410-split-array-largest-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0410-split-array-largest-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0907-sum-of-subarray-minimums) |
 ## Stack
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0222-count-complete-tree-nodes](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0275-h-index-ii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0278-first-bad-version) |
+| [0410-split-array-largest-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
@@ -339,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0316-remove-duplicate-letters](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0410-split-array-largest-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Recursion
