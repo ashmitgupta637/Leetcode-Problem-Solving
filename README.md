@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0410-split-array-largest-sum) |
 | [0697-degree-of-an-array](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0724-find-pivot-index) |
+| [0769-max-chunks-to-make-sorted](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0769-max-chunks-to-make-sorted) |
 | [0907-sum-of-subarray-minimums](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0992-subarrays-with-k-different-integers) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0316-remove-duplicate-letters](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0402-remove-k-digits) |
+| [0769-max-chunks-to-make-sorted](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0769-max-chunks-to-make-sorted) |
 | [0907-sum-of-subarray-minimums](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0316-remove-duplicate-letters](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0402-remove-k-digits) |
+| [0769-max-chunks-to-make-sorted](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0769-max-chunks-to-make-sorted) |
 | [0907-sum-of-subarray-minimums](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0769-max-chunks-to-make-sorted](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0769-max-chunks-to-make-sorted) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String Matching
 |  |
@@ -344,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0321-create-maximum-number](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0410-split-array-largest-sum) |
+| [0769-max-chunks-to-make-sorted](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0769-max-chunks-to-make-sorted) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Recursion
