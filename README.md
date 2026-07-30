@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2235-add-two-integers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0567-permutation-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Backtracking
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0769-max-chunks-to-make-sorted](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0769-max-chunks-to-make-sorted) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1673-find-the-most-competitive-subsequence) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
 | ------- |
