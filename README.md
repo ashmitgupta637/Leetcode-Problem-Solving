@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0027-remove-element) |
 | [0142-linked-list-cycle-ii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0283-move-zeroes) |
 | [0321-create-maximum-number](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0321-create-maximum-number) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0027-remove-element) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0135-candy](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0135-candy) |
