@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0009-palindrome-number](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0258-add-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2235-add-two-integers) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1260-shift-2d-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2553-separate-the-digits-in-an-array) |
 ## Greedy
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Rolling Hash
 |  |
