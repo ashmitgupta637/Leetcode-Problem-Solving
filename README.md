@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0283-move-zeroes) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0027-remove-element](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0198-house-robber) |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
@@ -98,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0402-remove-k-digits) |
