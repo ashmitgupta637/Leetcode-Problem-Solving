@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0258-add-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1952-three-divisors](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Rolling Hash
 |  |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1952-three-divisors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Counting
@@ -454,4 +457,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0881-boats-to-save-people) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
