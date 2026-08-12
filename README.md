@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1640-check-array-formation-through-concatenation](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1640-check-array-formation-through-concatenation) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2641-cousins-in-binary-tree-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Linked List
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1673-find-the-most-competitive-subsequence](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2553-separate-the-digits-in-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Dynamic Programming
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0930-binary-subarrays-with-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Prefix Sum
 |  |
