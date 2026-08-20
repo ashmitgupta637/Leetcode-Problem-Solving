@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0572-subtree-of-another-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0662-maximum-width-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0743-network-delay-time) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0872-leaf-similar-trees) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0662-maximum-width-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0743-network-delay-time) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0965-univalued-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0965-univalued-binary-tree) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0743-network-delay-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Memoization
 |  |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0912-sort-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 ## Merge Sort
@@ -488,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
@@ -497,5 +502,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0743-network-delay-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
