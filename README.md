@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1192-critical-connections-in-a-network](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1192-critical-connections-in-a-network) |
 | [1631-path-with-minimum-effort](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0547-number-of-provinces](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0743-network-delay-time) |
+| [1192-critical-connections-in-a-network](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1192-critical-connections-in-a-network) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Memoization
 |  |
@@ -530,4 +532,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1148-article-views-i](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1757-recyclable-and-low-fat-products) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
