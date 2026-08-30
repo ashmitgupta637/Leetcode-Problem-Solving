@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1640-check-array-formation-through-concatenation](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1640-check-array-formation-through-concatenation) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2553-separate-the-digits-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0881-boats-to-save-people](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1673-find-the-most-competitive-subsequence) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
