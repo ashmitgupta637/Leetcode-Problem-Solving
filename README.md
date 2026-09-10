@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0993-cousins-in-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2641-cousins-in-binary-tree-ii) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1192-critical-connections-in-a-network](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1192-critical-connections-in-a-network) |
 | [1631-path-with-minimum-effort](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2641-cousins-in-binary-tree-ii) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0993-cousins-in-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2641-cousins-in-binary-tree-ii) |
