@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2553-separate-the-digits-in-an-array](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2553-separate-the-digits-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0907-sum-of-subarray-minimums](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0940-distinct-subsequences-ii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1631-path-with-minimum-effort) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sliding Window
 |  |
 | ------- |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0912-sort-an-array](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## String Matching
 |  |
 | ------- |
