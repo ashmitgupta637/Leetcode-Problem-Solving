@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0724-find-pivot-index](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0724-find-pivot-index) |
 | [0769-max-chunks-to-make-sorted](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0769-max-chunks-to-make-sorted) |
 | [0827-making-a-large-island](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0835-image-overlap) |
 | [0881-boats-to-save-people](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0881-boats-to-save-people) |
 | [0907-sum-of-subarray-minimums](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0912-sort-an-array) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0130-surrounded-regions](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0130-surrounded-regions) |
 | [0827-making-a-large-island](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1260-shift-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1631-path-with-minimum-effort) |
