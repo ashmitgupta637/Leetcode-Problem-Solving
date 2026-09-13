@@ -2,9 +2,9 @@ class Solution {
 public:
     int largestOverlap(vector<vector<int>>& img1, vector<vector<int>>& img2) {
         // 2D cross correlation  =  translation + maximum overlap 
-        // c(del x  , del y) = sigma(sigma(i1(x, y ) * i2(x - del x  , y - del y2))) ; 
+        // c(dx , dy) = Σ(Σ(i1(x, y ) * i2(x - dx  , y - dy))) ; 
 
-        // ans= max( c(del x  , del y)) ; 
+        // ans= max( c(dx  , dy)) ; 
         int n = img1.size() ; 
         
         int ans = 0;
