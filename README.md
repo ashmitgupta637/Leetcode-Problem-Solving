@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0258-add-digits) |
+| [0836-rectangle-overlap](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0836-rectangle-overlap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1952-three-divisors](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -572,4 +573,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1192-critical-connections-in-a-network) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
