@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0410-split-array-largest-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0940-distinct-subsequences-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0724-find-pivot-index](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3904-smallest-stable-index-ii) |
 ## Tree
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0258-add-digits) |
 | [0836-rectangle-overlap](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0836-rectangle-overlap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1952-three-divisors](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2235-add-two-integers) |
@@ -581,4 +584,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
