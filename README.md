@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Backtracking
 |  |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1260-shift-2d-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2553-separate-the-digits-in-an-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
