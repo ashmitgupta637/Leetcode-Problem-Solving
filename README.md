@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3524-find-x-value-of-array-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3875-construct-uniform-parity-array-i) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3524-find-x-value-of-array-i](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3524-find-x-value-of-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2235-add-two-integers](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3524-find-x-value-of-array-i](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3524-find-x-value-of-array-i) |
 | [3870-count-commas-in-range](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3875-construct-uniform-parity-array-i) |
