@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0930-binary-subarrays-with-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0992-subarrays-with-k-different-integers) |
+| [1096-brace-expansion-ii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1096-brace-expansion-ii) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0769-max-chunks-to-make-sorted](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0769-max-chunks-to-make-sorted) |
 | [0907-sum-of-subarray-minimums](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1096-brace-expansion-ii) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Monotonic Stack
 |  |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0994-rotting-oranges) |
+| [1096-brace-expansion-ii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1096-brace-expansion-ii) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1631-path-with-minimum-effort](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0680-valid-palindrome-ii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0680-valid-palindrome-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1768-merge-strings-alternately](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1768-merge-strings-alternately) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -414,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0257-binary-tree-paths) |
+| [1096-brace-expansion-ii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1096-brace-expansion-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -423,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0881-boats-to-save-people](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
