@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1640-check-array-formation-through-concatenation](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1640-check-array-formation-through-concatenation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1640-check-array-formation-through-concatenation](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1640-check-array-formation-through-concatenation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2553-separate-the-digits-in-an-array) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1096-brace-expansion-ii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1768-merge-strings-alternately](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1768-merge-strings-alternately) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
