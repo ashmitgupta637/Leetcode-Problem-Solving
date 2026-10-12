@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0283-move-zeroes) |
 | [0321-create-maximum-number](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0321-create-maximum-number) |
 | [0410-split-array-largest-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0410-split-array-largest-sum) |
+| [0695-max-area-of-island](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0724-find-pivot-index) |
 | [0769-max-chunks-to-make-sorted](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0769-max-chunks-to-make-sorted) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0623-add-one-row-to-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0743-network-delay-time) |
 | [0827-making-a-large-island](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0827-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0623-add-one-row-to-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0743-network-delay-time) |
 | [0827-making-a-large-island](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0827-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0130-surrounded-regions) |
+| [0695-max-area-of-island](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0827-making-a-large-island](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0994-rotting-oranges) |
@@ -539,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0130-surrounded-regions](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0827-making-a-large-island](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0827-making-a-large-island) |
 | [1631-path-with-minimum-effort](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
