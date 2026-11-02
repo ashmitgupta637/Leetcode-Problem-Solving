@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0697-degree-of-an-array](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0697-degree-of-an-array) |
+| [0752-open-the-lock](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0752-open-the-lock) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0930-binary-subarrays-with-sum](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0930-binary-subarrays-with-sum) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0724-find-pivot-index) |
+| [0752-open-the-lock](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0752-open-the-lock) |
 | [0769-max-chunks-to-make-sorted](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0769-max-chunks-to-make-sorted) |
 | [0827-making-a-large-island](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0835-image-overlap) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0662-maximum-width-of-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0743-network-delay-time) |
+| [0752-open-the-lock](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0752-open-the-lock) |
 | [0827-making-a-large-island](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0827-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0402-remove-k-digits](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0402-remove-k-digits) |
 | [0567-permutation-in-string](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0680-valid-palindrome-ii) |
+| [0752-open-the-lock](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0752-open-the-lock) |
 | [0940-distinct-subsequences-ii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1096-brace-expansion-ii) |
@@ -655,4 +659,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
