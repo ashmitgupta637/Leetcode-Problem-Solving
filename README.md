@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1096-brace-expansion-ii) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1631-path-with-minimum-effort](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0547-number-of-provinces](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/0743-network-delay-time) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1192-critical-connections-in-a-network](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1192-critical-connections-in-a-network) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ashmitgupta637/Leetcode-Problem-Solving/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Memoization
